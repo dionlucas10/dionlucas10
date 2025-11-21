@@ -70,7 +70,8 @@ Continuar evoluindo como desenvolvedor Full Stack, dominando novas tecnologias e
 
 ### 📬 Entre em contato
 
-* 💼 GitHub: **@dionlucas10**
+* 💼 GitHub: [**@dionlucas10**](https://github.com/dionlucas10)
 * 📧 Email: *[dion.lucas1012@hotmail.com](mailto:dion.lucas1012@hotmail.com)*
+* 📸 Instagram: *[**@dion_lucas10**](https://www.instagram.com/dion_lucas10/)*
 
 > "A tecnologia move o mundo, e eu quero fazer parte dessa evolução."
