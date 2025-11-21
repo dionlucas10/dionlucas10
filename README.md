@@ -1,16 +1,21 @@
-## Hi there 👋
+## Dion Lucas 👋
 
-<!--
-**dionlucas10/dionlucas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou o Dion Lucas, um apaixonado por tecnologia desde criança. Sempre tive uma conexão natural com máquinas e computadores, o que acabou moldando minha vocação. Hoje sou desenvolvedor Full Stack, unindo criatividade e lógica para criar soluções completas. Estudo na Universidade Ceuma, onde sigo aprimorando minhas habilidades e expandindo meu conhecimento no universo da tecnologia. Meu objetivo é evoluir constantemente e transformar ideias em projetos funcionais e impactantes. 
+<p>
+ <a href="https://github.com/dionlucas10?tab=stars)">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
