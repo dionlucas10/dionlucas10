@@ -6,7 +6,6 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&bg_color=000000&color=9b56d3&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <div align="center">  
@@ -68,6 +67,8 @@ Atualmente estudo na **Universidade Ceuma**, onde continuo aprimorando minhas ha
 </div>
 
 ---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&bg_color=000000&color=9b56d3&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 Painéis de Dashboard
 
