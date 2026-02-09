@@ -87,7 +87,7 @@ Continuar evoluindo como desenvolvedor Full Stack, dominando novas tecnologias e
 
 ### 📬 Entre em contato
 
-* 💼 GitHub: [**@dionlucas10**](https://github.com/dionlucas10)
+* 💼 LinkedIn: [**@Dion Lucas**](https://www.linkedin.com/in/dion-lucas10?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 📧 Email: *[dion.lucas1012@hotmail.com](mailto:dion.lucas1012@hotmail.com)*
 * 📸 Instagram: *[**@dion_lucas10**](https://www.instagram.com/dion_lucas10/)*
 
