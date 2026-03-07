@@ -55,6 +55,8 @@ Atualmente estudo na **Universidade Ceuma**, onde continuo aprimorando minhas ha
     <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
     <img alt="NodeJs" title="nodeJs" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    <img alt="Angular" title="angular" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+
 </div>
 
 ---
