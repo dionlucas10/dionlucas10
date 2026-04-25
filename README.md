@@ -12,11 +12,9 @@
 
 # 🚀 Dion Lucas
 
-### **Desenvolvedor FullStack | Criando soluções com criatividade e lógica**
+### **Desenvolvedor Júnior | Aprendizado constante e paixão por tecnologia**
 
-Olá! Sou **Dion Lucas**, um apaixonado por tecnologia desde a infância. Sempre tive uma conexão natural com computadores e máquinas, o que despertou minha vocação desde cedo. Hoje atuo como **Desenvolvedor Full Stack**, unindo design, programação e arquitetura de software para criar aplicações completas, eficientes e modernas.
-
-Atualmente estudo na **Universidade Ceuma**, onde continuo aprimorando minhas habilidades e me aprofundando no vasto universo da tecnologia. Meu foco é evoluir constantemente, aprender novas ferramentas e transformar ideias em projetos reais e impactantes.
+Olá! Sou **Dion Lucas**, apaixonado por tecnologia desde cedo. Sempre tive interesse por computadores e desenvolvimento, o que me motivou a iniciar minha jornada na área de programação. Atualmente atuo como **Desenvolvedor Júnior**, buscando adquirir experiência prática e evoluir minhas habilidades em desenvolvimento de software, unindo lógica, criatividade e boas práticas para construir soluções eficientes.Estou cursando **Engenharia da Computação** na **Universidade Ceuma**, onde continuo aprendendo novas tecnologias e aprimorando meus conhecimentos. Tenho como objetivo crescer profissionalmente, contribuir com projetos reais e me tornar um desenvolvedor cada vez mais completo.
 
 ---
 
