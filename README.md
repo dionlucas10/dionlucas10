@@ -100,26 +100,24 @@ Atualmente, meu foco é evoluir como **Full Stack Developer**, criando soluçõe
 
 # 🚀 Projetos em destaque
 
+## 🚀 Projetos em Destaque
+
 <div align="center">
-
-<a href="https://github.com/dionlucas10/pollen-api">
-<img src="https://img.shields.io/badge/POLLEN%20API-Spring%20Boot%20%7C%20Java-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/dionlucas10/idexa-angular">
-<img src="https://img.shields.io/badge/IDEXA%20ANGULAR-Angular%20%7C%20TypeScript-0D1117?style=for-the-badge&logo=angular&logoColor=58A6FF" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/dionlucas10?tab=repositories">
-<img src="https://img.shields.io/badge/VER%20TODOS%20OS%20PROJETOS-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
-</a>
-
+  <a href="https://github.com/dionlucas10/NOME_DO_SEU_REPO_POLLEN">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dionlucas10&repo=NOME_DO_SEU_REPO_POLLEN&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Pollen API" />
+  </a>
+  <a href="https://github.com/dionlucas10/NOME_DO_SEU_REPO_IDEXA">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dionlucas10&repo=NOME_DO_SEU_REPO_IDEXA&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Idexa Angular" />
+  </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/dionlucas10?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_Ver_Todos_os_Projetos-0b3b9c?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos" />
+  </a>
+</div>
 ---
 
 # 🎯 Atualmente
