@@ -8,80 +8,83 @@
 
 <br>
 
+<div align="center">
+  <a href="https://github.com/dionlucas10?tab=repositories&sort=stargazers">
+    <img alt="Total de Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/dionlucas10?color=0b3b9c&style=for-the-badge&labelColor=161b22&logo=star&label=Estrelas" />
+  </a>
+  <a href="https://github.com/dionlucas10?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/dionlucas10?color=0b3b9c&labelColor=161b22&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+  <a href="https://portifolio-dion.vercel.app/">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-Online-0b3b9c?style=for-the-badge&logo=vercel&labelColor=161b22" />
+  </a>
 </div>
 
-# 🚀 Dion Lucas
-
-### **Desenvolvedor Júnior | Aprendizado constante e paixão por tecnologia**
-
-Olá! Sou **Dion Lucas**, apaixonado por tecnologia desde cedo. Sempre tive interesse por computadores e desenvolvimento, o que me motivou a iniciar minha jornada na área de programação. Atualmente atuo como **Desenvolvedor Júnior**, buscando adquirir experiência prática e evoluir minhas habilidades em desenvolvimento de software, unindo lógica, criatividade e boas práticas para construir soluções eficientes.Estou cursando **Engenharia da Computação** na **Universidade Ceuma**, onde continuo aprendendo novas tecnologias e aprimorando meus conhecimentos. Tenho como objetivo crescer profissionalmente, contribuir com projetos reais e me tornar um desenvolvedor cada vez mais completo.
+<br>
 
 ---
 
-## ⭐ Estatísticas
+## 🚀 Sobre Mim
 
-<p>
-    <a href="https://github.com/dionlucas10?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de Estrelas"
-            title="Total de estrelas no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/dionlucas10?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/dionlucas10?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Siga-me no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/dionlucas10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Olá! Sou **Dion Lucas**, apaixonado por tecnologia e inovação. Atualmente atuo como **Desenvolvedor Júnior** e estou cursando **Engenharia da Computação** na **Universidade Ceuma**.
+
+Busco constantemente adquirir experiência prática e evoluir minhas habilidades no desenvolvimento de software, unindo lógica, criatividade e boas práticas para construir soluções eficientes[cite: 1].
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 💻 Tech Stack & Ferramentas
 
-<!-- Badges de tecnologias -->
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
+<div align="center">
 
-<!-- Gráfico de Atividade -->
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+| **Ferramentas & UI** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
 
+</div>
 
 ---
 
-## 📊 Painéis de Dashboard
+## 📊 Estatísticas e Atividade
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionlucas10&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionlucas10&theme=tokyonight&hide_border=true&background=0D1117&fire=0b3b9c&ring=0b3b9c&currStreakNum=ffffff" alt="Sequência de Contribuições" width="90%" />
+</div>
 
 ---
 
 ## 🎯 Objetivo
 
-Continuar evoluindo como desenvolvedor Full Stack, dominando novas tecnologias e criando projetos cada vez mais completos, modernos e eficientes. Meu foco é entregar soluções que realmente façam diferença.
+> *"Continuar evoluindo como desenvolvedor Full Stack, dominando novas tecnologias e criando projetos cada vez mais completos, modernos e eficientes. Meu foco é entregar soluções que realmente façam diferença."*[cite: 1]
 
 ---
 
-### 📬 Entre em contato
+## 📬 Conecte-se Comigo
 
-* 💼 LinkedIn: [**@Dion Lucas**](https://www.linkedin.com/in/dion-lucas10?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* 📧 Email: *[dion.lucas1012@hotmail.com](mailto:dion.lucas1012@hotmail.com)*
-* 📸 Instagram: *[**@dion_lucas10**](https://www.instagram.com/dion_lucas10/)*
-* 💻 Portfólio:*[**Acesse aqui**](https://portifolio-dion.vercel.app/) *
+<div align="center">
 
-> "A tecnologia move o mundo, e eu quero fazer parte dessa evolução."
+<a href="https://www.linkedin.com/in/dion-lucas10" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dion.lucas1012@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.instagram.com/dion_lucas10/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://portifolio-dion.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <sub>"A tecnologia move o mundo, e eu quero fazer parte dessa evolução."</sub>[cite: 1]
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b3b9c&height=80&section=footer"/>
