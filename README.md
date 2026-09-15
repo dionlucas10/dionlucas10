@@ -100,15 +100,31 @@ Atualmente, meu foco é evoluir como **Full Stack Developer**, criando soluçõe
 
 # 🚀 Projetos em destaque
 
-## 🚀 Projetos em Destaque
-
 <div align="center">
-  <a href="https://github.com/dionlucas10/NOME_DO_SEU_REPO_POLLEN">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dionlucas10&repo=NOME_DO_SEU_REPO_POLLEN&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Pollen API" />
-  </a>
-  <a href="https://github.com/dionlucas10/NOME_DO_SEU_REPO_IDEXA">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dionlucas10&repo=NOME_DO_SEU_REPO_IDEXA&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Idexa Angular" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🌱 Pollen API</h3>
+        <p><i>Projeto focado em Backend com Spring Boot e Java.</i></p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <br><br>
+        <a href="https://github.com/dionlucas10/COLOQUE_O_NOME_DO_REPO_AQUI">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-0b3b9c?style=for-the-badge&logo=github" alt="Acessar Repositório" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🅰️ Idexa Angular</h3>
+        <p><i>Aplicação Frontend desenvolvida com Angular e TypeScript.</i></p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br><br>
+        <a href="https://github.com/dionlucas10/COLOQUE_O_NOME_DO_REPO_AQUI">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-0b3b9c?style=for-the-badge&logo=github" alt="Acessar Repositório" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
