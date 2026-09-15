@@ -59,7 +59,7 @@ Olá! Sou **Dion Lucas**, apaixonado por tecnologia desde cedo. Sempre tive inte
 
 <!-- Gráfico de Atividade -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&theme=react-dark&hide_border=true&area=true" width="100%" alt="Dion Lucas activity graph" />
+  <img src="https://raw.githubusercontent.com/dionlucas10/dionlucas10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -67,12 +67,12 @@ Olá! Sou **Dion Lucas**, apaixonado por tecnologia desde cedo. Sempre tive inte
 ## 📊 Painéis de Dashboard
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionlucas10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlucas10&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dionlucas10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dionlucas10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionlucas10&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionlucas10&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </p>
 
 ---
