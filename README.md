@@ -41,40 +41,38 @@ Olá! Sou **Dion Lucas**, apaixonado por tecnologia desde cedo. Sempre tive inte
 
 ## 🧠 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-    <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-    <img alt="NodeJs" title="nodeJs" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-    <img alt="Angular" title="angular" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+<!-- Badges de tecnologias -->
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
 
-</div>
+<!-- Gráfico de Atividade -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&theme=react-dark&hide_border=true&area=true" width="100%" alt="Dion Lucas activity graph" />
+</p>
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&bg_color=000000&color=9b56d3&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 📊 Painéis de Dashboard
 
-Aqui estão alguns painéis que representam minha atividade, desempenho e tecnologias mais utilizadas:
-
-<p>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dionlucas10&show_icons=true&theme=tokyonight&border_radius=10" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dionlucas10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlucas10&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
 </p>
 
-<p>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionlucas10&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
-<p>
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dionlucas10&theme=tokyonight&border_radius=10" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionlucas10&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
