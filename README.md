@@ -30,7 +30,13 @@ Atualmente, meu foco é evoluir como **Full Stack Developer**, criando soluçõe
 
 <div align="center">
 
-### `while (learning) → build → improve → repeat`
+```typescript
+while (learning) {
+    build();
+    improve();
+    repeat();
+}
+```
 
 </div>
 
