@@ -90,7 +90,7 @@ Atualmente, meu foco é evoluir como **Full Stack Developer**, criando soluçõe
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dionlucas10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://raw.githubusercontent.com/dionlucas10/dionlucas10/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
