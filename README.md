@@ -31,11 +31,13 @@ Atualmente, meu foco é evoluir como **Full Stack Developer**, criando soluçõe
 <div align="center">
 
 ```typescript
+
 while (learning) {
     build();
     improve();
     repeat();
 }
+
 ```
 
 </div>
