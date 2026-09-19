@@ -117,7 +117,7 @@ while (learning) {
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <br><br>
-        <a href="[https://github.com/dionlucas10/COLOQUE_O_NOME_DO_REPO_AQUI](https://github.com/dionlucas10/react-pollen.git)">
+        <a href="[(https://github.com/dionlucas10/react-pollen.git)](https://github.com/dionlucas10/react-pollen.git)">
           <img src="https://img.shields.io/badge/Acessar_Repositório-0b3b9c?style=for-the-badge&logo=github" alt="Acessar Repositório" />
         </a>
       </td>
