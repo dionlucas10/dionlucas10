@@ -17,7 +17,7 @@
 <!-- BADGES -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dionlucas10&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Profile Views](https://visitcount.itsvg.in/api?id=dionlucas10&label=Profile%20Views&color=1&icon=5&pretty=true)
 ![GitHub Followers](https://img.shields.io/github/followers/dionlucas10?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D)
 ![GitHub Stars](https://img.shields.io/github/stars/dionlucas10?style=for-the-badge&logo=github&label=STARS&color=21262D)
 
