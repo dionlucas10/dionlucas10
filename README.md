@@ -189,10 +189,38 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionlucas10)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionlucas10)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dion.lucas1012@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dion-portifolio.vercel.app/)
+<sub><i>Aberto a novos projetos, colaborações e oportunidades 🚀</i></sub>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="160">
+<a href="https://linkedin.com/in/dionlucas10"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/></a><br/>
+<b>LinkedIn</b><br/>
+<sub><a href="https://linkedin.com/in/dionlucas10">/in/dionlucas10</a></sub>
+</td>
+<td align="center" width="160">
+<a href="https://instagram.com/dionlucas10"><img src="https://skillicons.dev/icons?i=instagram" width="52" alt="Instagram"/></a><br/>
+<b>Instagram</b><br/>
+<sub><a href="https://instagram.com/dionlucas10">@dionlucas10</a></sub>
+</td>
+<td align="center" width="160">
+<a href="mailto:dion.lucas1012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Gmail"/></a><br/>
+<b>Gmail</b><br/>
+<sub><a href="mailto:dion.lucas1012@gmail.com">dion.lucas1012</a></sub>
+</td>
+<td align="center" width="160">
+<a href="https://dion-portifolio.vercel.app/"><img src="https://raw.githubusercontent.com/dionlucas10/dionlucas10/main/assets/image.png" width="52" alt="Portfólio"/></a><br/>
+<b>Portfólio</b><br/>
+<sub><a href="https://dion-portifolio.vercel.app/">Ver projetos</a></sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+
 
 </div>
 
