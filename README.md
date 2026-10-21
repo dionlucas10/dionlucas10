@@ -230,4 +230,10 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=26&fontColor=FFFFFF&fontAlignY=72&animation=twinkling"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Obrigado+pela+visita!;Thanks+for+visiting!;%C2%A1Gracias+por+la+visita!;%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%EF%BC%81;%E0%A4%86%E0%A4%A8%E0%A5%87+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6!;%D8%B4%D9%83%D8%B1%D8%A7%D9%8B+%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%83!;Merci+pour+votre+visite+!;%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D0%B7%D0%B0+%D0%B2%D0%B8%D0%B7%D0%B8%D1%82!;Danke+f%C3%BCr+deinen+Besuch!;%E3%81%94%E8%A8%AA%E5%95%8F%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%BC%81" alt="Obrigado pela visita em várias línguas" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&animation=twinkling"/>
