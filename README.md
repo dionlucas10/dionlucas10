@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Dion%20Lucas&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=60&descSize=18&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Dion%20Lucas&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=57&descSize=18&descColor=E6EDF3"/>
 
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full+Stack+Developer+in+progress+%F0%9F%9A%80;Computer+Engineering+%40+Ceuma+University+%F0%9F%8E%93;Turning+ideas+into+real+applications+%E2%9C%A8;Always+learning+and+evolving+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full+Stack+Developer+in+progress+%F0%9F%9A%80;Computer+Engineering+%40+Ceuma+University+%F0%9F%8E%93;Turning+ideas+into+real+applications+%E2%9C%A8;Always+learning+and+evolving+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 <!-- BADGES -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dionlucas10&style=for-the-badge&color=21262D&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdionlucas10&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%2321262D&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/dionlucas10?style=for-the-badge&logo=github&label=FOLLOWERS&color=21262D)
 ![GitHub Stars](https://img.shields.io/github/stars/dionlucas10?style=for-the-badge&logo=github&label=STARS&color=21262D)
 
@@ -88,13 +88,20 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 
 <div align="center">
 
-<a href="https://github.com/dionlucas10/pollen-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=pollen-api&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-&nbsp;
-<a href="https://github.com/dionlucas10/idexa-angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=idexa-angular&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Alguns+projetos+que+constru%C3%AD+%F0%9F%9B%A0%EF%B8%8F;PHP+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+Angular" />
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/dionlucas10/plataforma-pip2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=plataforma-pip2026&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/dionlucas10/financas-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=financas-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/dionlucas10/projeto-nutri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=projeto-nutri&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/dionlucas10/idexa-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=idexa-angular&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+</tr>
+</table>
+
+<a href="https://github.com/dionlucas10?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_os_reposit%C3%B3rios-21262D?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 
 </div>
 
@@ -190,4 +197,4 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&fontColor=58A6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=26&fontColor=FFFFFF&fontAlignY=72&animation=twinkling"/>
