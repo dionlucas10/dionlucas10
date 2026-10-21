@@ -57,7 +57,7 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 
 ### ⚙️ Frameworks & Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,bootstrap,vite&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,laravel,bootstrap,vite&perline=7" />
 
 ### 🗄️ Banco de Dados & Ferramentas
 
@@ -123,6 +123,11 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
       <b>Java & Spring</b><br/>
       <sub>Backends robustos</sub>
     </td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=php,laravel" /><br/>
+<b>PHP & Laravel</b><br/>
+<sub>Back-end web</sub>
+</td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=python" /><br/>
       <b>Python</b><br/>
