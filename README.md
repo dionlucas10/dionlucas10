@@ -191,8 +191,8 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionlucas10)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionlucas10)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@globalvisionaccess.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)](https://dionlucas10.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dion.lucas1012@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://dionlucas10.github.io](https://dion-portifolio.vercel.app/))
 
 </div>
 
