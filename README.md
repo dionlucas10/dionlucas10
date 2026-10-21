@@ -88,15 +88,15 @@ Meu foco atual é evoluir como **Full Stack Developer**, criando soluções mode
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Alguns+projetos+que+constru%C3%AD+%F0%9F%9B%A0%EF%B8%8F;PHP+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+Angular" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Alguns+projetos+que+constru%C3%AD+%F0%9F%9B%A0%EF%B8%8F;React+%E2%80%A2+Python+%E2%80%A2+JavaScript+%E2%80%A2+Angular" />
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/dionlucas10/plataforma-pip2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=plataforma-pip2026&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/dionlucas10/dashbord-financeiro-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=dashbord-financeiro-react&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
 <td width="50%"><a href="https://github.com/dionlucas10/financas-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=financas-dashboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/dionlucas10/projeto-nutri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=projeto-nutri&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/dionlucas10/tecboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=tecboard&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
 <td width="50%"><a href="https://github.com/dionlucas10/idexa-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dionlucas10&repo=idexa-angular&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&description_lines_count=2" width="100%"/></a></td>
 </tr>
 </table>
